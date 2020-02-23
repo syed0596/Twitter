@@ -6,10 +6,10 @@ from pyquery import PyQuery
 
 
 # Variables that contains the user credentials to access Twitter API
-consumer_key = "Pxg8ffRNFAPPMaPXcSyUAMrLl"
-consumer_secret = "hubnXbrrPwP25tXaX6c2YYbNPCCqf1wThcM7whpOwra5YRUQ5Q"  # API Secret
-access_token = "135161799-obzulizJnt633XpyT7BbayTuFyacA0E6tWqmO5Pw"  # Access Token
-access_token_secret = "EyC0qlSdphl429T4A9asmaoRFGqYQVyjHnDlbhKfjtMIC"  # Token Secret
+consumer_key = ""
+consumer_secret = ""  # API Secret
+access_token = ""  # Access Token
+access_token_secret = ""  # Token Secret
 
 
 
